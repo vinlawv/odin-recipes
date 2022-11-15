@@ -1,0 +1,53 @@
+.heading {
+    background-color:rgb(236, 74, 74);
+    color:black;
+    font-size:60px;
+    font-weight:800;
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.main {
+    background-color: rgb(245, 245, 112);
+    color:black;
+    font-size: 22;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.body {
+    font-size:16;
+    color:black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#ramen {
+    background-color:rgb(245, 245, 112);
+    color:black;
+    font-size: 40px;
+    font-weight:500px;
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#tacos {
+    background-color:rgb(112, 245, 183);
+    color:black;
+    font-size: 40px;
+    font-weight:500px;
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#lasagna {
+    background-color:rgb(219, 116, 240);
+    color:black;
+    font-size: 40px;
+    font-weight:500px;
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.img {
+    height:525px;
+    width: auto
+}
