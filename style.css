@@ -27,6 +27,13 @@
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
+#lasagna-main {
+    background-color: rgb(219, 116, 240);
+    color:black;
+    font-size: 22;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
 #ramen {
     background-color:rgb(245, 245, 112);
     color:black;
