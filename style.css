@@ -7,16 +7,23 @@
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
-.main {
+.body {
+    font-size:16;
+    color:black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#ramen-main {
     background-color: rgb(245, 245, 112);
     color:black;
     font-size: 22;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
-.body {
-    font-size:16;
+#tacos-main {
+    background-color: rgb(112, 245, 183);
     color:black;
+    font-size: 22;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
